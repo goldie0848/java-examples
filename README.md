@@ -1,2 +1,2 @@
-# java-examples
-Collection of Java practice programs
+# java-programs
+Collection of basic Java programs
